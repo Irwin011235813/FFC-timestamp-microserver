@@ -1,0 +1,23 @@
+[33m3c7f56f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m fix: use correct heading levels (#100)
+[33mbbe844a[m fix: remove .replit file (#85)
+[33m37c3a6a[m fix(config/chore): update config, .gitattributes, chores (#79)
+[33m4a94073[m chore: clarify readme (#71)
+[33m6533033[m fix: rename server.js to index.js for replit debugging (#69)
+[33mf1efd12[m fix: update routes to new ones (#55)
+[33m83e39bc[m Revert "test: push from REPL by Shaun"
+[33m5d31a31[m test: push from REPL by Shaun
+[33m45dea08[m chore: remove node engine from package.json (#16)
+[33mf9594b8[m Remove engine from package.json (#48)
+[33m74da237[m fix: remove user stories from landing page and readme (#43)
+[33m788466b[m fix: CORS configuration option
+[33ma9b12d4[m Added .replit Lockfile Readme
+[33m2c518af[m Merge pull request #11 from DominusKelvin/patch-1
+[33m3d464e6[m Merge pull request #35 from scissorsneedfoodtoo/fix/sync-with-live-solution
+[33mb2b2330[m Update views/index.html
+[33m2e7849a[m fix: update fCC URL
+[33mf49fcf7[m fix: syncs index.html and README.md with the example project at https://curse-arrow.glitch.me/
+[33m2c9ffe8[m Update index.html
+[33m5cdcd62[m fix (curriculum): updated guidelines for the boilerplate text to match with the demo
+[33mecf1efd[m Create .gitignore
+[33m8123554[m Initial commit from Gomix.
+[33m92a485c[m Initial commit
